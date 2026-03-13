@@ -72,15 +72,15 @@ GPU:     NVIDIA RTX 3060
 ### 📡 Uplink / Contact
 <div align="center">
   <a href="https://www.linkedin.com/in/thiago-gegers/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:thiagohgegers@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ThiagoHG1">
-    <img src="https://img.shields.io/badge/-GitHub-121011?style=for-the-badge&logo=github&logoColor=white&label=" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </div>
 
