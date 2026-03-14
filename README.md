@@ -3,9 +3,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=LOW-LEVEL+DEVELOPER;ZIG+ENTHUSIAST;KERNEL+HACKER;SYSTEM+ARCHITECT" alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=zig,cpp,c,asm,linux,windows,opengl,unreal&theme=dark" />
-  </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=zig,cpp,c,linux,windows,unreal&theme=dark" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="48"/>
+</p>
 </div>
 
 ---
