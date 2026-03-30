@@ -30,14 +30,21 @@
 
 ---
 
-### 📂 Top Project: [SCT - Simple CLI Tool](https://github.com/ThiagoHG1/SCT)
+### 📂 Top Projects
 <div align="center">
+
   <a href="https://github.com/ThiagoHG1/SCT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHG1&repo=SCT&theme=tokyonight&border_radius=20&show_owner=true" />
+    <img src="https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api/pin/?username=ThiagoHG1&repo=SCT&theme=tokyonight&border_radius=20&show_owner=true" alt="SCT" />
   </a>
+
   <a href="https://github.com/ThiagoHG1/ZServe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHG1&repo=ZServe&theme=tokyonight&border_radius=20&show_owner=true" />
+    <img src="https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api/pin/?username=ThiagoHG1&repo=ZServe&theme=tokyonight&border_radius=20&show_owner=true" alt="ZServe" />
   </a>
+
+  <a href="https://github.com/ThiagoHG1/HAPTRIX">
+    <img src="https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api/pin/?username=ThiagoHG1&repo=HAPTRIX&theme=tokyonight&border_radius=20&show_owner=true" alt="HAPTRIX" />
+  </a>
+
 </div>
 
 ---
