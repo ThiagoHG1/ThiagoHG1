@@ -33,7 +33,7 @@
 <div align="center">
 
   <a href="https://github.com/ThiagoHG1/SCT">
-    <img src="[https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api/pin/?username=ThiagoHG1&repo=SCT&theme=tokyonight&border_radius=20&show_owner=true](https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api/pin/?username=ThiagoHG1&repo=SCT&theme=tokyonight)" alt="SCT" />
+    <img src="[[https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api/pin/?username=ThiagoHG1&repo=SCT&theme=tokyonight&border_radius=20&show_owner=true](https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api/pin/?username=ThiagoHG1&repo=SCT&theme=tokyonight)](https://github-readme-stats-seven-neon-60.vercel.app/api/pin/?username=ThiagoHG1&repo=SCT&theme=tokyonight&show_owner=true)" alt="SCT" />
   </a>
 
   <a href="https://github.com/ThiagoHG1/ZServe">
