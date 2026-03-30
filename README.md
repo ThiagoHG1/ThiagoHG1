@@ -35,6 +35,9 @@
   <a href="https://github.com/ThiagoHG1/SCT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHG1&repo=SCT&theme=tokyonight&border_radius=20&show_owner=true" />
   </a>
+  <a href="https://github.com/ThiagoHG1/ZServe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHG1&repo=ZServe&theme=tokyonight&border_radius=20&show_owner=true" />
+  </a>
 </div>
 
 ---
