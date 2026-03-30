@@ -29,18 +29,16 @@
 - 📚 **Knowledge:** Solid fundamentals via **CS50 Harvard**  
 
 ---
-
 ### 📂 Top Projects
 <div align="center">
 
   <a href="https://github.com/ThiagoHG1/SCT">
-    <img src="https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api?username=ThiagoHG1&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="SCT Stats" />
+    <img src="https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api/pin/?username=ThiagoHG1&repo=SCT&theme=tokyonight&border_radius=20&show_owner=true" alt="SCT" />
   </a>
 
   <a href="https://github.com/ThiagoHG1/ZServe">
-    <img src="https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api?username=ThiagoHG1&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="ZServe Stats" />
+    <img src="https://github-readme-stats-git-master-thiagohgs-projects.vercel.app/api/pin/?username=ThiagoHG1&repo=ZServe&theme=tokyonight&border_radius=20&show_owner=true" alt="ZServe" />
   </a>
-
 </div>
 
 ---
